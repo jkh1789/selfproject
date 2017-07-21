@@ -1,0 +1,55 @@
+  #wrapper {
+  	width: auto;
+	height: 95px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid;
+	}
+ #header {
+ 	background-color: white;
+	line-height: 100px;
+	}
+  #logo {
+  	width: 367px;
+  	float: left;
+	}
+  #nav {
+	font-family : Arial;
+	width: 562px;
+	text-align : right;
+	float: left;
+	padding-right: auto;
+	}
+  #nav a {
+  	font-family: Sans-Serif;
+	font-size: 40px;
+	
+	color: red;
+	}
+  #nav ul {
+  	margin: 0px;
+	padding: 0px;
+	}
+  #nav li {
+  	display: inline;
+	}
+  #logo img {
+  	height: 80px;
+	width: 86px;
+	}
+  #banner {
+  	clear: both;
+	background-color: white;
+	border: 1px solid;
+	height: auto;
+	line-height: auto;
+	padding-left: 31px;
+	padding-right: 31px;
+	background-position-x: 115px;
+	background-size: cover;
+	background-height: 720px;
+	}
+  #banner h1 {
+  	margin: 0px;
+	color: red;
+	}
